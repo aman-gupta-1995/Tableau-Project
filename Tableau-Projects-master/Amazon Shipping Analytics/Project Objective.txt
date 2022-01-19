@@ -11,7 +11,7 @@ Amazon Trade has a database on Azure as well as Maria DB. The Shipping manager h
 given us the details to connect to it.
 
 Data Source Connection for Amazon Trade
-Connect to Maria DB 
+Connect to Maria DB
 Server: hostname: relational.fit.cvut.cz
 Database:
 port: 3306
