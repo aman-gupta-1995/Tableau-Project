@@ -8,7 +8,7 @@ Tableau is basically a data visualization tool which provides pictorial and grap
 ## What is Tableau used for?  
 
 Usage of Tableau software are listed below:
-  
+ 
 - Tableau software is used to translate queries into visualization.  
 - It is also used for managing metadata.  
 - Tableau software imports data of all sizes and ranges.  
