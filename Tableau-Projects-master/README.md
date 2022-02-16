@@ -7,7 +7,7 @@ Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic
   3. UT Mart Sales Analytics                  
   </pre>  
     
-## What I Learnt in Tableau :  
+## What I Learnt in Tableau :   
  
   
   - To Create 3 interactive dashboards and publish it online to share
