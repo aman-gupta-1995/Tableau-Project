@@ -30,6 +30,6 @@ Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic
   - Understood how to use dashboard actions and create interactive dashboards.
 
   - Learnt creating a dashboard which updates daily via google sheets.            
-
+ 
   
   
