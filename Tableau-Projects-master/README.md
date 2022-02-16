@@ -16,7 +16,7 @@ Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic
 
   - To Create a variety of charts including bar charts, line charts, donut charts, maps, tables and dual axis charts.
 
-  - To Create calculated fields including developing IF Statements.
+  - To Create calculated fields including developing IF Statements. 
 
   - To Create sets, hierarchies and groups.
 
