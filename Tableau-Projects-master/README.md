@@ -1,6 +1,6 @@
 # Tableau-Projects
 Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic Analytics Projects.
-   
+    
   <pre>
   1. Amazon Shipping Analytics       
   2. Tesla Stock Price                
