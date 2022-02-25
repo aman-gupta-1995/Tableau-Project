@@ -8,3 +8,4 @@ Mr. Utkarsh assumes that most customers buy 2 or more products per basket/order 
 like this confirmed by the data.
 Utkarsh also noted that Profit is 30% of the selling price. 
  
+ 
