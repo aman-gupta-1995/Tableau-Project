@@ -6,4 +6,4 @@ Sold).
 He would also like to know how well categories are performing as well as different regions.
 Mr. Utkarsh assumes that most customers buy 2 or more products per basket/order but would
 like this confirmed by the data.
-Utkarsh also noted that Profit is 30% of the selling price.
+Utkarsh also noted that Profit is 30% of the selling price. 
