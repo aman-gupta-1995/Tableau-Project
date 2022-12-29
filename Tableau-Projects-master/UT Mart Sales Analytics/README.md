@@ -15,7 +15,6 @@ Usage of Tableau software are listed below:
 - For a non-technical user, Tableau is a life saver as it offers the facility to create ‘no-code’ data queries.  
 - Ever since it was introduced, this data visualization tool is used for Business Intelligence industry. Organizations like Amazon, Walmart, Accenture, Lenovo, and so on widely use Tableau.  
  
-
 # UT Mart Sales Analytics 
 
 UT Discount mart is a small supermarket owned by Mr. Utkarsh.  
