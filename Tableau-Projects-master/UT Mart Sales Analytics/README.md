@@ -16,7 +16,7 @@ Usage of Tableau software are listed below:
 - Ever since it was introduced, this data visualization tool is used for Business Intelligence industry. Organizations like Amazon, Walmart, Accenture, Lenovo, and so on widely use Tableau.  
 
 
-# UT Mart Sales Analytics
+# UT Mart Sales Analytics 
 
 ###  Overview 
 
